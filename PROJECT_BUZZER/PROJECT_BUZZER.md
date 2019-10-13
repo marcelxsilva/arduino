@@ -6,7 +6,7 @@ Sinalizadores são utilizados em diversas areas, podendo desempenhar um grande p
 
 Neste projeto iremos utilizar um Buzzer, como mostrado na imagem:
 
-<img src='https://www.baudaeletronica.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/b/u/buzzer_5v.jpg' style="width: 100px">
+![Buzzer](../images/buzzer_5v.jpg)
 
 #### Funcionamento
 Vamos entender primeiramente como um Buzzer funciona, um buzzer é constituido por dois pinos que são ligado ao GND e 5 V. em seu interior possui um disco de cerâmica central, rodeado por um disco de vibração metalico, quando é aplicado corrente eletrica ao buzzer o disco de cerâmica é contraido ou expandido o que ocasiona no som que ouvimos.
