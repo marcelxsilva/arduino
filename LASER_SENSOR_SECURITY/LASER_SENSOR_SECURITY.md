@@ -22,9 +22,9 @@ Então o funcionamento dele será bem simples, iremos utilizar um LDR e emitir u
 
 #### Circuito
 
-<img src='../images/laser-sensor.png' width='300'/>
+<img src='../images/laser-sensor.png' width='400'/>
 
-Obs: no exemplo do circuito utilizei um LED, por não possuir como exemplo.
+Obs: no exemplo do circuito utilizei um LED, por não possuir como exemplo um Diodo Laser.
 
 #### Código 
 
