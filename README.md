@@ -14,5 +14,6 @@ Caso não tiver um arduino ou os componentes necessarios voce pode realizar este
 
 [Sensor de Luminosidade](LIGHT_SENSOR/LIGHT_SENSOR.md)
 
+[Sistema de Segurança com Laser](LASER_SENSOR_SECURITY/LASER_SENSOR_SECURITY.md)
 
 <hr />
