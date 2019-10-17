@@ -1,6 +1,14 @@
+<h1 align="center">Aprendendo Arduino</h1>
+<p>
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+  <a href="https://twitter.com/marcelxsilva" target="_blank">
+    <img alt="Twitter: marcelxsilva" src="https://img.shields.io/twitter/follow/marcelxsilva.svg?style=social" />
+  </a>
+</p>
 
-
-### Aprendendo Arduino
+> 
 
 Aqui ficará expostos todos os meus estudos sobre arduino, ainda estou iniciando nesta tecnologia e pensei em compartilhar com outras pessoas o meu processo de aprendizagem e é claro o conhecimento adquirido nesse processo.
 
@@ -16,4 +24,12 @@ Caso não tiver um arduino ou os componentes necessarios voce pode realizar este
 
 [Sistema de Segurança com Laser](LASER_SENSOR_SECURITY/LASER_SENSOR_SECURITY.md)
 
-<hr />
+<hr/>
+
+## Author
+
+ **Marcelo Silva**
+
+* Twitter: [@marcelxsilva](https://twitter.com/marcelxsilva)
+* Github: [@marcelxsilva](https://github.com/marcelxsilva)
+
