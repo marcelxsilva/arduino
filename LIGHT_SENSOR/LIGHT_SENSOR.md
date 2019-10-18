@@ -1,5 +1,15 @@
+<h1 align="center">Aprendendo Arduino</h1>
+<p>
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+  <a href="https://twitter.com/marcelxsilva" target="_blank">
+    <img alt="Twitter: marcelxsilva" src="https://img.shields.io/twitter/follow/marcelxsilva.svg?style=social" />
+  </a>
+</p>
 
-# Sensor de Luminosidade
+> <h2>Sensor de Luminosidade</h2>
+
 
 Aqui irei fazer um projeto semelhante aos poste de energia publica, que durante o dia com a existencia da luz do sol se mantém apagada e ao anoitecer se acende para iluminar a via.
 
@@ -105,3 +115,13 @@ void loop() {
 Em seguida temos uma estrutura condicional que verifica se o valor lido é menor que 400, se por acaso a tensidade de luminosidade for pouca um pouco a baixo temos o comando <code>digitalWrite(LED,HIGH); </code> que esta ligando nosso LED, e o else que caso a luminosidade subir seu valor ele desligará o LED.
 
 Já os coódigos que estão um pouco abaixo não tem muito segredo, alguns imprime o valor obtido e este <code>tensao = read * 5.0 / 1023.0;</code> está fazendo uma soma para obter a tensão total.
+
+
+[Voltar ao Início](../README.md)
+<hr/>
+ 
+ **Author - Marcelo Silva**
+
+* Twitter: [@marcelxsilva](https://twitter.com/marcelxsilva)
+* Github: [@marcelxsilva](https://github.com/marcelxsilva)
+

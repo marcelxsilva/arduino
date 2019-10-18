@@ -1,6 +1,15 @@
 
+<h1 align="center">Aprendendo Arduino</h1>
+<p>
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+  <a href="https://twitter.com/marcelxsilva" target="_blank">
+    <img alt="Twitter: marcelxsilva" src="https://img.shields.io/twitter/follow/marcelxsilva.svg?style=social" />
+  </a>
+</p>
 
-# FAZENDO UM POUCO DE BARULHO
+> <h2>FAZENDO UM POUCO DE BARULHO</h2>
 
 Sinalizadores são utilizados em diversas areas, podendo desempenhar um grande papel em alguns projetos, como por exemplo sistemas de alarmes.
 
@@ -74,3 +83,12 @@ Serve para desabilitar a frequencia ou melhor seria desligar o buzzer.
 
 #### delay 
 Este serve para aguardar determinado tempo em milissegundos para executar a próxima instrução.
+
+[Voltar ao Início](../README.md)
+<hr/>
+ 
+ **Author - Marcelo Silva**
+
+* Twitter: [@marcelxsilva](https://twitter.com/marcelxsilva)
+* Github: [@marcelxsilva](https://github.com/marcelxsilva)
+

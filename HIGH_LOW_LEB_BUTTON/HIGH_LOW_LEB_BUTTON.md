@@ -1,5 +1,15 @@
+<h1 align="center">Aprendendo Arduino</h1>
+<p>
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+  <a href="https://twitter.com/marcelxsilva" target="_blank">
+    <img alt="Twitter: marcelxsilva" src="https://img.shields.io/twitter/follow/marcelxsilva.svg?style=social" />
+  </a>
+</p>
 
-# Ligando um LED ao Pressionar um Botão
+> <h2>Ligando um LED ao Pressionar um Botão</h2>
+
 
 Sabemos que os pinos do arduino funcionam como saida digital, onde a energia flui por eles até a carga. porém eles também podem ser configurados para permitir que a energia flua de fora para dentro, dessa forma podemos avaliar uma tensão de entrada como 0V ou 5V.
 
@@ -64,3 +74,13 @@ Para definimos o estado do LED, como ligado e desligado utilizamos estes valores
 
 #### digitalWrite
 Serve para enviar ou "Escrever valores", este comando esta definindo a porta no nosso LED como ligada ou desligada, então quando o botão for pressionado e enviar um sinal para a porta 9 e esta tiver o valor HIGH, então então enviaremos um sinal para o nosso LED ligar, caso contrario o LED estara desligado.
+
+
+
+[Voltar ao Início](../README.md)
+<hr/>
+ 
+ **Author - Marcelo Silva**
+
+* Twitter: [@marcelxsilva](https://twitter.com/marcelxsilva)
+* Github: [@marcelxsilva](https://github.com/marcelxsilva)

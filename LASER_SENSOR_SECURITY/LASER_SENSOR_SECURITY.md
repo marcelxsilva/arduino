@@ -1,5 +1,14 @@
+<h1 align="center">Aprendendo Arduino</h1>
+<p>
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+  <a href="https://twitter.com/marcelxsilva" target="_blank">
+    <img alt="Twitter: marcelxsilva" src="https://img.shields.io/twitter/follow/marcelxsilva.svg?style=social" />
+  </a>
+</p>
 
-# Sistema de Segurança com Laser
+> <h2>Sistema de Segurança com Laser</h2>
 
 Quantas vezes voce assistiu um filme e viu essa cena:
 
@@ -90,3 +99,12 @@ void loop() {
 Aqui o código esta lendo o LDR <code>readLDR = analogRead(LDR)</code> e o Botão <code>readButton = digitalRead(button)</code>, caso o valor do LDR for menor que 512 ele acionará o Buzzer <code>tone(buzzer, 1000)</code>, e logo abaixo quando o Botão for pressionado o Buzzer irá parar de emitir som <code>noTone(buzzer)</code>.
 
 É claro que esse projeto pode ser melhorado, podendo adicionar um LED, para acender uma luz.
+
+
+[Voltar ao Início](../README.md)
+<hr/>
+ 
+ **Author - Marcelo Silva**
+
+* Twitter: [@marcelxsilva](https://twitter.com/marcelxsilva)
+* Github: [@marcelxsilva](https://github.com/marcelxsilva)
