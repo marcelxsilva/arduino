@@ -22,11 +22,11 @@ Então o funcionamento dele será bem simples, iremos utilizar um LDR e emitir u
 
 #### Materiais
 - Arduino
-- [Diodo Laser 5V](https://www.robocore.net/loja/itens-eletronicos/diodo-laser-5v)
+- Diodo Laser 5V
 - Resistor 10kΩ
-- [Sensor de Luminosidade](https://www.robocore.net/loja/sensores/sensor-de-luminosidade-ldr-5mm)
+- Sensor de Luminosidade
 - Protoboard
-- [Buzzer](https://www.robocore.net/loja/itens-eletronicos/buzzer-5v-ativo)
+- Buzzer
 - Jumpers
 
 #### Circuito
