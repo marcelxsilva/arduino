@@ -68,6 +68,29 @@ Esse é o valor que o potenciomêtro está enviando ao computador, e como nosso 
 <img src='../images/potenciometro-grafico.png' width='600'/>
 
 
+No lugar de apenas um <code>print</code> podemos adicionar mais dois prints, e teremos o resultado:
+
+<img src='../images/grafico-color.png' width='600'/>
+
+O código será esse, dentro do bloco de loop:
+```C
+void loop() {
+ readResult = analogRead(PIN);
+
+  Serial.print(readResult);
+  Serial.print(" "); 
+  
+  Serial.print(readResult*90); 
+  Serial.print(" "); 
+  
+  Serial.print(" "); 
+  Serial.println(readResult*30);
+  
+  delay(100);  
+}
+```
+>Fim
+
 [Voltar ao Início](../README.md)
 <hr/>
  

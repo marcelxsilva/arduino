@@ -2,6 +2,7 @@
 int PIN = A0;
 // definindo variavel para armazenar o valor lido pelo potenciometro
 float readResult;
+int sum = 0;
 
 void setup() {
   pinMode(PIN, INPUT);
@@ -9,6 +10,14 @@ void setup() {
 }
 void loop() {
   readResult = analogRead(PIN);
-  Serial.println(readResult);
+  Serial.print(readResult);
+  Serial.print(" "); 
+  
+  Serial.print(readResult*90); 
+  Serial.print(" "); 
+  
+  Serial.print(" "); 
+  Serial.println(readResult*30); 
+  
   delay(100);        
 }
