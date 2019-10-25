@@ -26,6 +26,8 @@ Caso não tiver um arduino ou os componentes necessarios voce pode realizar este
 
 [Trabalhando com Gráficos](WORKING_GRAPHICS/WORKING_GRAPHICS.md)
 
+[Controlando Intensidade do LED](DIMMER_LED/DIMMER_LED.md)
+
 <hr/>
 
 ## Author
