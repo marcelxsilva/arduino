@@ -28,6 +28,7 @@ Caso não tiver um arduino ou os componentes necessarios voce pode realizar este
 
 [Controlando Intensidade do LED](DIMMER_LED/DIMMER_LED.md)
 
+[Brincando com LED RGB](LED_RGB/LED_RGB.md)
 <hr/>
 
 ## Author
@@ -35,5 +36,4 @@ Caso não tiver um arduino ou os componentes necessarios voce pode realizar este
  **Marcelo Silva**
 
 * Twitter: [@marcelxsilva](https://twitter.com/marcelxsilva)
-* Github: [@marcelxsilva](https://github.com/marcelxsilva)
 
