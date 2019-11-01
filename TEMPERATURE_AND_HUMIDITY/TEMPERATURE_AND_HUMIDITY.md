@@ -29,7 +29,7 @@ Na imagem esta descrito o nome de cada pinagem do DHT11
 Ele utiliza apenas um fio para transmitir sinal ao arduino, alimentação é feita pelo pino VCC e GND, de acordo com a especificação do DHT11 ele possui uma margem de erro de 2% em relação á temperatura, quando o mesmo indica a temperatuca como 20 ºC a temperatura pode ser 18 ou 22 ºC, o mesmo é para humidade porem com a taxa de 5%.
 
 ## Circuito
-
+<img src='../images/temperature_and_humidity.png' width='400'>
 
 Utilizo o Thinkercad para montar os circuitos e infelizmente na lista de componentes não havia o DHT11 para exemplificar a montagem do circuito, mas fiz uma forma que ficará facil o entendimento.
 
