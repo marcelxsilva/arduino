@@ -32,6 +32,10 @@ Caso não tiver um arduino ou os componentes necessarios voce pode realizar este
 
 [Temperatura e Humidade](TEMPERATURE_AND_HUMIDITY/TEMPERATURE_AND_HUMIDITY.md)
 
+
+[Brincando com Display de 7 Segmentos](DISPLAY_SEGMENTOS/DISPLAY_SEGMENTOS.md)
+
+
 <hr/>
 
 ## Author
